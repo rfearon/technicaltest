@@ -11,6 +11,7 @@ Download Version 37.0 of Mozilla Firefox
 
 # Instructions how to run code
 Run command in Git bash to clone project- git clone https://github.com/rfearon/technicaltest/
+Extract zip folder dev2
 Open project in IntelliJ and navigate to dev2>src>test>java>cucumberTest
 Right-click on contactUsScenario.feature and click the Run 'Feature: contactUsScenario'
 The test will then proceed to launch and you shoud the actions being performed
